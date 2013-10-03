@@ -13,4 +13,6 @@ var s1 = arrgen( 100, function( i ) {
 } );
 
 id = strokeRenderer.add( s1 );
-strokeRenderer.render();
+// strokeRenderer.render();
+
+strokeRenderer.start();
