@@ -6,7 +6,8 @@
   "keywords": [],
   "dependencies": {
     "lge88/extend": "*",
-    "lge88/composable": "*"
+    "lge88/composable": "*",
+    "lge88/raf": "*"
   },
   "development": {
     "lge88/expect.js": "*",
